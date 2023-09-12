@@ -1,32 +1,21 @@
 # Dividir e Conquistar: Projeto de Implementação do Merge Sort
-<div align="center">
-<img src="src/img/site.png" width="2000px" alt="Imagem do site" title="Imagem do site"/>
-</div>
 
 ## Visão Geral
 
-Este projeto representa o fruto do nosso trabalho na disciplina de Estrutura de Dados da Universidade Paulista (UNIP). Nele, exploramos a linguagem de programação Java e o framework Spring Boot para implementar o algoritmo de ordenação Merge Sort. Além disso, para aprimorar a experiência visual, incorporamos o framework Tailwind CSS ao nosso Front-End. Este projeto é um exemplo do nosso comprometimento com a aprendizagem e a aplicação prática dos conceitos acadêmicos.
+Este projeto representa o fruto do nosso trabalho na disciplina de Estrutura de Dados da Universidade Paulista (UNIP). Nele, exploramos a linguagem de programação Java para implementar o algoritmo de ordenação Merge Sort. Este projeto é um exemplo do nosso comprometimento com a aprendizagem e a aplicação prática dos conceitos acadêmicos.
 
 ## Funcionalidades Principais
 
-- 
+- Ordenação por meio do algoritmo Merge Sort. 
 
 ## Pré-requisitos
 
-- HTML5;
-- Tailwind CSS v3.3.3 ou superior;
-- Java 17.0.5 ou superior;
-- Spring Boot v3.1.3 ou superior.
+- Java 17.0.5 ou superior.
 
 ## Configuração
 
 1. Clone o repositório: `git clone https://github.com/igoraugustobrz/mergeSort-Java`
 2. Navegue para o diretório: `cd mergeSortJava`
-
-## Como Usar
-
-1. Acesse o aplicativo em `http://localhost:8080`
-
 
 ## Contribuição
 
@@ -50,6 +39,3 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
-## Agradecimentos
-
